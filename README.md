@@ -13,6 +13,15 @@ The project includes:
 - A trained Gradient Boosting Regressor for market value estimation.
 - A Streamlit application for exploring the original analytics and prediction workflow.
 
+## 🌐 Live Application
+
+**Live Dashboard:** [FIFA 20 Player Intelligence Platform](https://fifa-20-players-analytics.vercel.app/)
+
+**Backend API:** [FIFA 20 API](https://fifa20-players-analytics.onrender.com/)
+
+**API Documentation:** [Explore API Documentation](https://fifa20-players-analytics.onrender.com/docs)
+
+
 ## ✨ Key Features
 
 ### 1. Overview Dashboard
